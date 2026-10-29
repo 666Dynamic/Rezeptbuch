@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/homeFragment" android:title="Entdecken" android:icon="@android:drawable/ic_menu_view"/>
+<item android:id="@+id/searchFragment" android:title="Suchen" android:icon="@android:drawable/ic_menu_search"/>
+<item android:id="@+id/favoritesFragment" android:title="Favoriten" android:icon="@android:drawable/btn_star"/>
+<item android:id="@+id/aboutFragment" android:title="Info" android:icon="@android:drawable/ic_menu_info_details"/>
+</menu>
